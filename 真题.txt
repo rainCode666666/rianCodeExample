@@ -1,0 +1,12 @@
+网址：https://i1snanu3wq.feishu.cn/base/bascnktJuVJRVB24NPsuKjBW8Tq?table=tbl9GPmIX1pmslCs&view=vewJHSwJVd
+
+前端性能优化 - 用RAIL模型分析性能：https://juejin.cn/post/6850037273312886797
+前端性能优化：https://alienzhou.com/projects/fe-performance-journey/#%E6%97%85%E9%80%94%E7%9A%84%E8%A1%8C%E7%A8%8B%E8%B7%AF%E7%BA%BF
+重排(reflow)和重绘(repaint)：https://juejin.cn/post/6844904083212468238
+前端性能优化之白屏时间：https://cloud.tencent.com/developer/article/1508941
+网页图片加载优化方案：https://zhuanlan.zhihu.com/p/33370207
+浏览器工作原理：从 URL 输入到页面展现到底发生了什么？：https://www.jianshu.com/p/d616d887953a
+动画性能优化：https://www.jianshu.com/p/d24a891d4de6
+渲染曾合并：https://segmentfault.com/a/1190000014520786
+
+
